@@ -1,0 +1,20 @@
+{
+  "name": "dynamic-programming-using-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fib-recursive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zissan/dynamic-programming-using-js.git"
+  },
+  "keywords": [],
+  "author": "Zissan Chowdhury <zissan.chowdhury@email.com> (https://github.com/Zissan)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zissan/dynamic-programming-using-js/issues"
+  },
+  "homepage": "https://github.com/Zissan/dynamic-programming-using-js#readme"
+}
